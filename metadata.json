@@ -1,0 +1,6 @@
+{
+  "name": "SPR Elective Course Enrollment System",
+  "description": "ระบบลงทะเบียนรายวิชาเพิ่มเติมและจัดการเวลาเรียน โรงเรียนสายปัญญารังสิต (Saipanyarangsit School)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
